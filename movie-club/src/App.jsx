@@ -51,7 +51,7 @@ function App() {
         />
         <Route path="/show/:id" element={<ShowDetail />} />
       </Routes>
-      <Footer name="Ad Soyad" />
+      <Footer name="Ceyhun Başkoç-2025-Ödev 3-2311012012" />
     </div>
   );
 }
